@@ -1,3 +1,10 @@
+
+.container{
+    max-width: 100vh;
+    margin: auto;
+    **codigo removido e nao causou nenhuma alteraçao na resposividade ou designer atual, porem comentado para nao esquecermos dele caso no futuro vnhamosa perceber o erro causado pela ausensia do mesmo.
+}
+
 .teste{
     background-color: #eaeaea;
     border-radius: 40px;
@@ -8,4 +15,12 @@
 display: flex;
 flex-direction: column;
 justify-content:flex-end;
+}
+
+.space{
+    margin-bottom: 10%;
+    border: red 1px solid;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }

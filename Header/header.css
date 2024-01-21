@@ -25,10 +25,7 @@ header.rolagem a{
     height: 50px;
     width: 50px;
 }
-.container{
-    max-width: 100vh;
-    margin: auto;
-}
+
 .flex{
     display: flex;
     align-items: center;
